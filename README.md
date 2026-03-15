@@ -17,6 +17,7 @@ https://tmmfaris.github.io/Calculator/
 
 # Features
 
+```
 ✔ Addition
 ✔ Subtraction
 ✔ Multiplication
@@ -25,6 +26,7 @@ https://tmmfaris.github.io/Calculator/
 ✔ Responsive design
 ✔ Modern UI layout
 ✔ Interactive button effects
+```
 
 ---
 
