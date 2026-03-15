@@ -120,9 +120,9 @@ This project helped practice:
 
 **Muhammed Faris T M**
 
- Kerala, India
- M.Sc Physics
- Data Analytics & AI Enthusiast
+  Kerala, India
+  M.Sc Physics
+  Data Analytics & AI Enthusiast
 
 🔗 GitHub
 https://github.com/Tmmfaris
